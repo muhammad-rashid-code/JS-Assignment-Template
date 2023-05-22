@@ -1,0 +1,1 @@
+alert ("I have been applied JS externally in head section");
